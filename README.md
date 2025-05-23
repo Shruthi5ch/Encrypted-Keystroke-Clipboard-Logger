@@ -18,7 +18,7 @@
 
 ### 🔑 Key Generation
 
-Run the `gen_key.py` script once to generate a secret key file. This key is used for **both encryption and decryption** of the keystroke and clipboard logs.
+-   Run the `gen_key.py` script once to generate a secret key file. This key is used for **both encryption and decryption** of the keystroke and clipboard logs.
 
 
 ### Ethical Considerations
