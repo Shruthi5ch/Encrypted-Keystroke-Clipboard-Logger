@@ -16,7 +16,11 @@
    ** Install required packages with:
    - pip install pynput pyperclip cryptography
 
-  
+### 🔑 Key Generation
+
+Run the `gen_key.py` script once to generate a secret key file. This key is used for **both encryption and decryption** of the keystroke and clipboard logs.
+
+
 ### Ethical Considerations
 
 1. **Respect Privacy**: Ensure that you have explicit consent from individuals before monitoring or recording their keystrokes. Unauthorized monitoring is a serious violation of privacy.
